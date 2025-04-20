@@ -42,9 +42,9 @@ Here's a thinking process for interpreting and representing the mathematical exp
 
 8.  **Refine the Explanation:**
     *   Start by clarifying the simplification (`x+x` to `2*x`).
-    *   Clearly separate the numerically computable part from the Big O notation part.
+    *   Clearly separate the numerically commutable part from the Big O notation part.
     *   Explain the meaning of Big O notation in this context (usually related to approximations or series expansions).
-    *   Provide clean code examples for the computable part.
+    *   Provide clean code examples for the commutable part.
     *   Mention the need for numerical libraries (`math`, `numpy` in Python; base R functions).
 
 9.  **Self-Correction/Review:** Did I interpret all symbols correctly? Is the explanation of Big O clear? Is the code syntactically correct for the chosen language(s)? Does it directly address the user's input? Yes, the breakdown seems correct, and the distinction between the calculable part and the asymptotic notation is crucial.
