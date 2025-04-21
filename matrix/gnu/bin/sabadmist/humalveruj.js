@@ -40,9 +40,9 @@ function check(haverway, haverlink, haverstate){
     
     data.Iterator()
     data.debugger()
+    
     .call("damange in RangeError: ", get(data.Interator))
     .call("damange in RangeError: ", get(data.debugger))
-    
     
 } 
      
